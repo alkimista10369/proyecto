@@ -13,9 +13,9 @@ and open the template in the editor.
         <?php
         
         echo "Hola mundo";
-        
-        echo "a todos";
-        
+
+        echo "buen dia";
+
         ?>
     </body>
 </html>
