@@ -14,6 +14,7 @@ and open the template in the editor.
         
         echo "Hola mundo";
 
+            echo "hola angarita";
         echo "buen dia";
 
         ?>
